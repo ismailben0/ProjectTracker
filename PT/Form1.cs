@@ -47,6 +47,29 @@ namespace PT
 
         private void gunaButton2_Click(object sender, EventArgs e)
         {
+            clsProject project = clsProject.FindByID(7); // Assuming you want to update the project with ID 7
+
+            if (project != null)
+            {
+                project.Name = "Updated Project 1";
+                project.Goal = "Updated Goal 1";
+                project.Description = "Updated Description 1";
+                project.StartDate = DateTime.Now;
+                project.EndDate = DateTime.Now;
+                if (project.Save())
+                {
+                    MessageBox.Show("Project updated successfully.");
+                    gunaDataGridView1.DataSource = clsProject.GetAllProjects();
+                }
+                else
+                {
+                    MessageBox.Show("Failed to update project.");
+                }
+            }
+            else
+            {
+                MessageBox.Show("Project not found.");
+            }
 
         }
 
