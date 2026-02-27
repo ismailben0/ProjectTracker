@@ -1,0 +1,17 @@
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT\bin\Debug\PT.exe.config
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT\bin\Debug\PT.exe
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT\bin\Debug\PT.pdb
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT\obj\Debug\PT.csproj.AssemblyReference.cache
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT\obj\Debug\PT.Properties.Resources.resources
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT\obj\Debug\PT.csproj.GenerateResource.cache
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT\obj\Debug\PT.csproj.CoreCompileInputs.cache
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT\obj\Debug\PT.exe
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT\obj\Debug\PT.pdb
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT\bin\Debug\Guna.UI.dll
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT\bin\Debug\PT_BLL.dll
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT\bin\Debug\PT_DAL.dll
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT\bin\Debug\PT_BLL.pdb
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT\bin\Debug\PT_DAL.pdb
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT\obj\Debug\PT.exe.config
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT\obj\Debug\PT.Form1.resources
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT\obj\Debug\PT.csproj.Up2Date

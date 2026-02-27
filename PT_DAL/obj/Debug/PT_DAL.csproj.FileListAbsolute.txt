@@ -7,3 +7,12 @@ C:\Users\DELL\Desktop\My Prog. Career Path\Projects\C#\WPF\ProjectTracker\Projec
 C:\Users\DELL\Desktop\My Prog. Career Path\Projects\C#\WPF\ProjectTracker\ProjectTracker\PT_DAL\obj\Debug\PT_DAL.csproj.Up2Date
 C:\Users\DELL\Desktop\My Prog. Career Path\Projects\C#\WPF\ProjectTracker\ProjectTracker\PT_DAL\obj\Debug\PT_DAL.dll
 C:\Users\DELL\Desktop\My Prog. Career Path\Projects\C#\WPF\ProjectTracker\ProjectTracker\PT_DAL\obj\Debug\PT_DAL.pdb
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT_DAL\bin\Debug\PT_DAL.dll
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT_DAL\bin\Debug\PT_DAL.pdb
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT_DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT_DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT_DAL\obj\Debug\PT_DAL.csproj.AssemblyReference.cache
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT_DAL\obj\Debug\PT_DAL.csproj.CoreCompileInputs.cache
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT_DAL\obj\Debug\PT_DAL.csproj.Up2Date
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT_DAL\obj\Debug\PT_DAL.dll
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT_DAL\obj\Debug\PT_DAL.pdb

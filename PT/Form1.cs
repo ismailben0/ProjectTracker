@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using PT_BLL;
 
 namespace PT
 {
@@ -15,6 +16,11 @@ namespace PT
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            gunaDataGridView1.DataSource =clsProject.GetAllProjects();
         }
     }
 }

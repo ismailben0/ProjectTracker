@@ -7,3 +7,12 @@ C:\Users\DELL\Desktop\My Prog. Career Path\Projects\C#\WPF\ProjectTracker\Projec
 C:\Users\DELL\Desktop\My Prog. Career Path\Projects\C#\WPF\ProjectTracker\ProjectTracker\PT_BLL\obj\Debug\PT_BLL.csproj.Up2Date
 C:\Users\DELL\Desktop\My Prog. Career Path\Projects\C#\WPF\ProjectTracker\ProjectTracker\PT_BLL\obj\Debug\PT_BLL.dll
 C:\Users\DELL\Desktop\My Prog. Career Path\Projects\C#\WPF\ProjectTracker\ProjectTracker\PT_BLL\obj\Debug\PT_BLL.pdb
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT_BLL\bin\Debug\PT_BLL.dll
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT_BLL\bin\Debug\PT_BLL.pdb
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT_BLL\bin\Debug\PT_DAL.dll
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT_BLL\bin\Debug\PT_DAL.pdb
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT_BLL\obj\Debug\PT_BLL.csproj.AssemblyReference.cache
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT_BLL\obj\Debug\PT_BLL.csproj.CoreCompileInputs.cache
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT_BLL\obj\Debug\PT_BLL.csproj.Up2Date
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT_BLL\obj\Debug\PT_BLL.dll
+C:\ProjectTracker\ProjectTracker\ProjectTracker\PT_BLL\obj\Debug\PT_BLL.pdb
