@@ -1,0 +1,5 @@
+# Visual Studio folders and files
+.vs/
+*.user
+*.suo
+*.userosscache
