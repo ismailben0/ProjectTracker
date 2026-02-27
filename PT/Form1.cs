@@ -22,5 +22,27 @@ namespace PT
         {
             gunaDataGridView1.DataSource =clsProject.GetAllProjects();
         }
+
+        private void gunaButton1_Click(object sender, EventArgs e)
+        {
+            clsProject project = new clsProject();
+
+            project.Name = "Project 1";
+            project.Goal = "Goal 1";
+            project.Description = "Description 1";
+            project.StartDate = DateTime.Now;
+            project.EndDate = DateTime.Now;
+
+            if (project.Save())
+            {
+                MessageBox.Show("Project saved successfully.");
+                gunaDataGridView1.DataSource = clsProject.GetAllProjects();
+            }
+            else
+            {
+                MessageBox.Show("Failed to save project.");
+
+            }
+        }
     }
 }
